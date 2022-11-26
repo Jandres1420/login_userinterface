@@ -42,7 +42,7 @@
                     android:layout_height="wrap_content"
                     android:text="Login"
                     android:textSize="35sp"
-                    android:textColor="@color/cardview_light_background"/>
+                    android:textColor="@color/black"/>
 
                 <LinearLayout
                     android:layout_width="match_parent"
@@ -84,7 +84,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="Mantener logeado"
-                    android:textColor="@color/cardview_light_background"
+                    android:textColor="@color/black"
                     android:textSize="17sp"
                     />
 
@@ -122,7 +122,7 @@
             android:layout_height="wrap_content"
             android:layout_gravity="center_horizontal"
             android:text="Recuperar contraseña"
-            android:textColor="@color/cardview_light_background"
+            android:textColor="@color/black"
             android:textSize="16sp"/>
 
 
